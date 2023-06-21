@@ -1,0 +1,14 @@
+__pycache__/
+LogFile
+*.pyc
+*.log
+log/
+.idea/*
+venv/*
+.vagrant/
+Vargrantfile
+.vscode/
+LogFile*
+docs/_build/*
+.env*
+!.env.example
